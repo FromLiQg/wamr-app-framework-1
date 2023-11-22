@@ -15,7 +15,7 @@
 [x] IoT-APP-Store-Demo
 [x] wamr-sdk
 [] test-tools/component-test
-[] CI
+[x] CI (done in WAMR)
 ```
 # WebAssembly Micro Runtime Application Framework
 
